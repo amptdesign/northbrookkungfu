@@ -92,6 +92,15 @@ body {
     background-image: none;
     border: 1px solid transparent;
     border-radius: 4px;
+    text-transform: uppercase;
+}
+
+.icon-taichi {
+    padding: 18px;
+    margin: 5px;
+    background-color: fff;
+    border-radius: 19px;
+    background-color: #fff;
 }
 
 /* Custom Horizontal Rule */
